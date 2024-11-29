@@ -6,6 +6,7 @@ connectToMongo();
 const app = express();
 const port = 3000;
 
+// for middleware
 app.use(express.json());
 
 // Example route
