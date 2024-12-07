@@ -7,8 +7,6 @@ const connectTOMongo = async () => {
   try {
     await mongoose.connect(mongoURI, { useNewUrlParser: true });
     console.log("Connected to MongoDB sucessfully");
-
-   
   } catch (error) {
     console.error("Error connecting to MongoDB:", error.message);
   }
