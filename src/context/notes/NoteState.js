@@ -21,6 +21,51 @@ const NoteState = (props) => {
           "tag": "personal",
           "date": "2024-12-07T09:15:09.943Z",
           "__v": 0
+        },
+        {
+          "_id": "6754121d305020e1099d9345",
+          "user": "674c500d3ee1008e0aa482e1",
+          "title": "My hello paazi",
+          "description": "plz do something",
+          "tag": "personal",
+          "date": "2024-12-07T09:15:09.943Z",
+          "__v": 0
+        },
+        {
+          "_id": "6754121d305020e1099d9345",
+          "user": "674c500d3ee1008e0aa482e1",
+          "title": "My hello paazi",
+          "description": "plz do something",
+          "tag": "personal",
+          "date": "2024-12-07T09:15:09.943Z",
+          "__v": 0
+        },
+        {
+          "_id": "6754121d305020e1099d9345",
+          "user": "674c500d3ee1008e0aa482e1",
+          "title": "My hello paazi",
+          "description": "plz do something",
+          "tag": "personal",
+          "date": "2024-12-07T09:15:09.943Z",
+          "__v": 0
+        },
+        {
+          "_id": "6754121d305020e1099d9345",
+          "user": "674c500d3ee1008e0aa482e1",
+          "title": "My hello paazi",
+          "description": "plz do something",
+          "tag": "personal",
+          "date": "2024-12-07T09:15:09.943Z",
+          "__v": 0
+        },
+        {
+          "_id": "6754121d305020e1099d9345",
+          "user": "674c500d3ee1008e0aa482e1",
+          "title": "My hello paazi",
+          "description": "plz do something",
+          "tag": "personal",
+          "date": "2024-12-07T09:15:09.943Z",
+          "__v": 0
         }
       ]
       const[notes,setNotes] = useState(notesInital)
